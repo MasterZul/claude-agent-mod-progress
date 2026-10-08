@@ -1,0 +1,7 @@
+{
+  "name": "agent-board",
+  "version": "0.1.0",
+  "description": "Live pane showing each subagent's progress, tokens, tools and time, with role-based pixel crabs",
+  "author": { "name": "MasterZul" },
+  "types": "./types/index.d.ts"
+}

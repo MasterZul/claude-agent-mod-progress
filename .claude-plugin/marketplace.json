@@ -1,0 +1,12 @@
+{
+  "name": "claude-agent-mod-progress",
+  "owner": { "name": "MasterZul" },
+  "description": "Claude Code mods for watching subagents work",
+  "plugins": [
+    {
+      "name": "agent-board",
+      "source": "./",
+      "description": "Live pane showing each subagent's progress, tokens, tools and time, with role-based pixel crabs"
+    }
+  ]
+}
